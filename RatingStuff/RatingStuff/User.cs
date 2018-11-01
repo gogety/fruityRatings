@@ -11,5 +11,6 @@ namespace RatingStuff
         public string userId { get; set; }
         public string userName { get; set; }
         public string fullName { get; set; }
+        public string address { get; set; }
     }
 }
