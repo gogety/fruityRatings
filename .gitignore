@@ -3,3 +3,7 @@
 ################################################################################
 
 /RatingStuff/RatingStuff/bin
+/RatingStuff/RatingStuff/obj
+/RatingStuff/RatingStuff/Properties/PublishProfiles
+/RatingStuff/.vs/FunctionApp
+/RatingStuff/RatingStuff/RatingStuff.csproj.user
