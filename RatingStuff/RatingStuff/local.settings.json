@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+        "CosmosDBConnection": "AccountEndpoint=https://bfyocunique.documents.azure.com:443/;AccountKey=XIEZek4jyLmEwVggpZFLrlVaTOn8E8AVM2NWHgKRSxiCZVzOFMetVGvJPWoAyEoJQCcT3ljTSatJJtnAsWwR8g==;"
+
+    }
+}

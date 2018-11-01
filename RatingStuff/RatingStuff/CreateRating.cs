@@ -74,7 +74,7 @@ namespace RatingStuff
                 var r = new Rating
                 {
                     id = Guid.NewGuid().ToString(),
-                    rating = rating,
+                    rating = -2,
                     userId = userId,
                     productid = productId,
                     locationName = locationName,
